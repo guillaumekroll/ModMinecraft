@@ -1,6 +1,6 @@
-#Minecraft Mod _pour la 1.12_ :
+# Minecraft Mod _pour la 1.12_ :
 
-##Idées de fonctionnalités :
+## Idées de fonctionnalités :
 
 ### Régénération infini :
 > Item de régénération de vie infinie quand il est dans l'inventaire pour qu'il est porté en colier.
