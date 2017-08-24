@@ -9,9 +9,13 @@
 
 
 
-# Section des outils 
+# Section des outils :
 
 + ![alt text](http://www.minecraftforge.net/forum/uploads/set_resources_3/247441864ab051a2bd22c960e8e7b8b5_favicon-16x16.png "forge") [Forge - Sources](https://files.minecraftforge.net/)
 + ![alt text](http://www.minecraftforge.net/forum/uploads/set_resources_3/247441864ab051a2bd22c960e8e7b8b5_favicon-16x16.png "forge") [Forge - Documentations](http://mcforge.readthedocs.io/en/latest/)
-+ ![alt text](http://coderanch.com/images/bumperStickers/16_java.gif "forge") Java 1.8
-+ ![alt text](http://marketplace.eclipse.org/sites/all/themes/solstice/_themes/solstice_marketplace/favicon.ico "") Eclypse IDE 
++ ![alt text](http://coderanch.com/images/bumperStickers/16_java.gif "forge") [Java 1.8](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
++ ![alt text](http://marketplace.eclipse.org/sites/all/themes/solstice/_themes/solstice_marketplace/favicon.ico "") [Eclypse IDE](https://www.eclipse.org/downloads/eclipse-packages/)
+
+# Mise en place de l'environnement de travail :
+
++ [Installation de MDK (Mod Develeopment KIT)](https://www.minecraftforgefrance.fr/showthread.php?tid=2805)
