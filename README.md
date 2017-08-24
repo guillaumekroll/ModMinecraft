@@ -19,3 +19,7 @@
 # Mise en place de l'environnement de travail :
 
 + [Installation de MDK (Mod Develeopment KIT)](https://www.minecraftforgefrance.fr/showthread.php?tid=2805)
+
+# Mise en place de la base du mod :
+
++ [Class et structure de Base du projet Eclypse](https://www.minecraftforgefrance.fr/showthread.php?tid=3134)
